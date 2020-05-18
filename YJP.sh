@@ -201,7 +201,7 @@ echo -e "$blue
                       (  _ \( \/ )( ___)  (  _ \( \/ )( ___)
                       ) _ < \  /  )__)    ) _ < \  /  )__) 
                       (____/ (__) (____)  (____/ (__) (____)...$cyan have a awesome day$rset"
-echo " "
+echo -e "$red  NOTE:- Make sure that this tool is only for educational purpose and nothing else if you are doing any illegal activity then we are not responsible for that. " $rset
 echo " "
 exit
 esac

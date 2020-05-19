@@ -1,0 +1,7 @@
+echo " "
+pkg install php -y
+echo " "
+pkg install dropbear -y
+echo " "
+pkg install openssh -y
+echo ""
